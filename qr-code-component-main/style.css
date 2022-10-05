@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(147, 173, 171);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 99vh;
+    font-family: 'Outfit', sans-serif;
+}
+.container{
+    width: 400px;
+    /* height: 400px; */
+    background-color: white;
+    margin: 0 auto;
+    /* margin-top: 80px; */
+    padding: 20px;
+    border:0px solid blue;
+    border-radius: 20px;
+
+}
+.logo{
+    width: 100%;
+    display: block;
+    margin: auto;
+    border: 0px solid blue;
+    border-radius: 10px;
+}
+.desk{
+    text-align: center;
+    font-weight: 700;
+}
+.title{
+    text-align: center;
+    color: dimgrey;
+    font-weight: 400;
+}
